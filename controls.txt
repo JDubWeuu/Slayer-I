@@ -1,0 +1,18 @@
+(yes the art is original)
+MENU STATE:
+W & S to move up and down the  options
+ENTER to select option
+
+GAME STATE:
+WASD to move
+ENTER to attack/interact
+P to pause
+E to open menu
+
+MENU STATE
+WASD to move around the menu
+ENTER to select
+E to close menu
+
+PAUSE STATE:
+P to unpause
